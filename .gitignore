@@ -1,4 +1,10 @@
 lib/config.js
-.database/
-.logs/
-https
+https/*
+!https/.gitkeep
+.database/checks/*
+.database/tests/*
+.database/tokens/*
+.database/users/*
+!.database/**/.gitkeep
+.logs/*
+!.logs/.gitkeep
