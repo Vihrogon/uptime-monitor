@@ -1,4 +1,4 @@
-lib/config.js
+#lib/config.js # The config file does not contain any sensitive information
 https/*
 !https/.gitkeep
 .database/checks/*
